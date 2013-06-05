@@ -1,0 +1,29 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+      <!--        
+        body {background-image:url(info-back.png);
+  	background-repeat: no-repeat;
+		background-position: top left;
+		background-size: cover;
+		background-origin: padding-box;}
+      -->
+	p{width:700px; padding-left: 60px; }
+    </style>
+ </head>
+ <br>
+<br>
+<br>
+<center>
+<img src="join-main.png" width="700px" height= border="0"><br>
+</center>
+ <br>
+   <p align="center">
+<img src="join-join.png" width="200px" height= border="0" align="">
+<a href="https://docs.google.com/forms/d/1qUv6B6Fk-aEqfNTJIdOzMqytQHZ8WrTv4AGHcyKTIDE/viewform" target="_blank">
+<img src="join-icon.png" width="140px" height= border="0"align="center"></a></p>
+  <br>
+</body>
+</html>
