@@ -1,0 +1,65 @@
+<!DOCTYPE >
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+      <!--        
+        body {background-image:url(help-back.png);
+  	background-repeat: no-repeat;
+		background-position: top left;
+		background-size: cover;
+		background-origin: padding-box;}
+      -->
+	p{width:700px; float:top;}
+  #icon{
+   position:absolute;
+  top:500px;
+  left:50%;
+   margin-left:-50px;
+  }
+#main{
+position:absolute;
+  top:215px;
+  left:50%;
+   margin-left:-260px;}
+
+    </style>
+ </head>
+<br>
+<br>
+<center>
+<img src="help-main.png" width="200px" height= border="0"><br>
+<br>
+<br>
+<img src="back2.png" width="700px" height= border="0">
+</center>
+<div id=main>
+<p>
+<img src="help-1.png" width="700px" height= border="0">
+</p>
+</div>
+
+<div id=icon>
+<p>
+<a href="http://www.facebook.com/facefiley"target="_blank" >
+<img src="help-facebook.png" width="17px" height= border="0" align="left">
+</a>
+</p>
+<p>
+<a href="http://twitter.com/filey_server"target="_blank">
+<img src="help-twitter.png" width="40px" height= border="0" hspace="15" align="left"></a>
+</p>
+<a href="mailto:hys2001kr@gmail.com"target="_blank">
+<img src="help-email.png" width="40px" height= border="0" hspace="" align="left"></a>
+</p>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</body>
+</html>
